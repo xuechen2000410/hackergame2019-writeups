@@ -1,4 +1,4 @@
-估计这种解法要被官方打死,和之前一样,这题又用的是websocket,直接想到python直接跑
+估计这种解法要被官方打死,和之前一样,这题又用的是websocket,直接想到python直接跑,
 于是乎
 ```
 #!/usr/bin/python2
